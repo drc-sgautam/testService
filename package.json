@@ -1,0 +1,22 @@
+{
+    "name": "api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.0.1",
+        "express": "^4.13.4"
+    },
+    "devDependencies": {
+        "grunt-exec": "^0.4.6",
+        "grunt-run": "^0.5.2",
+        "load-grunt-tasks": "^3.4.1",
+        "grunt": "^0.4.5"
+    }
+}
